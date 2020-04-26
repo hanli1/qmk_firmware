@@ -12,3 +12,5 @@ AUDIO_ENABLE = no
 RGB_MATRIX_ENABLE = yes     # Use RGB matrix
 
 LAYOUTS = 65_ansi_blocker
+
+RGB_MATRIX_CUSTOM_USER = yes
